@@ -2,7 +2,8 @@
 
 # StudyApp - Naan Mudhalvan Project
 
-
+## Team members Dinesh kumar T(310121104026) Albert Simeon S(310121104006) Diwakar p(310121104029) Dhayanithi S R(310121104023)
+ 
 ## Table of Contents
 
 - [Introduction](#introduction)
